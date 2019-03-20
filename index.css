@@ -32,15 +32,18 @@
   margin-top: 2%;
 }
 
+#spcolor{
+  height: 80px;
+  text-align: center;
+  font-size: 20px;
+  padding: 2%;
+}
 .col{
   height: 40px;
 }
 
 .light{
   color: #fff;
-  font-size: 20px;
-  height: 100%;
-  text-align: center;
 }
 .dark{
   color: #000;

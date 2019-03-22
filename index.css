@@ -5,14 +5,11 @@
 }
 .navbar{
   background: #fff;
-  height: 50px;
-  width: 100%;
+  height: 10%;
   box-shadow: 0 0px 8px 0px rgba(0,0,0,.5);
   font-family: 'Raleway', sans-serif;
   overflow: hidden;
-  position: fixed;
   top: 0;
-  width: 100%;
 }
 
 .navfont{
@@ -59,6 +56,11 @@
   font-size: 20px;
   height: 100%;
   text-align: center;
+}
+
+.titlebox{
+  margin: 5%;
+  width: 90%;
 }
 
 .card{
